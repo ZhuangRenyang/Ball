@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tedu_utils1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/tedu_utils1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
